@@ -10,7 +10,6 @@ I'm Mahdi - I'm a Flutter developer, currently, I Study Software Engineering, an
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mahdiahbabi&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mahdiahbabi&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiahbabi&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mahdiahbabi&icon=1&color=6)](https://visitcount.itsvg.in)
